@@ -1,0 +1,21 @@
+{ 
+  "description": "Made this NFT seeing @vijethx's blog",
+  "external_url": "https://vijeth.hashnode.dev",
+  "image": "https://ipfs.filebase.io/ipfs/QmexPXU********F5VdmHHVZEWupg2MN7E5k9XbKWn",
+  "name": "A super cool NFT", 
+  "attributes": [
+    {
+      "trait_type": "Tweet",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "AI",
+      "value": "Yes"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": "2"
+    }
+  ]
+ }
